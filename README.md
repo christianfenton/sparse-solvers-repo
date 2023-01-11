@@ -1,1 +1,1 @@
-# Performance comparisons of sparse solvers and preconditioners
+## Performance comparisons of sparse solvers and preconditioners
